@@ -1,4 +1,4 @@
-                 Mixed Linear Model Regression Results
+for all                 Mixed Linear Model Regression Results
 =======================================================================
 Model:                 MixedLM     Dependent Variable:     kiloCalories
 No. Observations:      265         Method:                 REML        
